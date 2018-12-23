@@ -1,4 +1,4 @@
-# fullstack4-assign3
-Solution to Assignment 3 in Coursera Course "HTML, CSS, JavaScript for Web Developers"
+# fullstack4-assign4
+Solution to Assignment 4 in Coursera Course "HTML, CSS, JavaScript for Web Developers"
 
 
